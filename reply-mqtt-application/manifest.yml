@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: reply-mqtt-application
+  host: reply-mqtt-application
+  disk_quota: 1024M
